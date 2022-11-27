@@ -1,6 +1,6 @@
 const downloadBtn = document.querySelector(".download-btn");
 // Google driver's file link
-const fileLink = "https://drive.google.com/file/d/1FQjFKWvlgkzDJAkgJ7HhIpDcDrGTfvOw/view?usp=share_link";
+const fileLink = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fjoshstudios%2Fart%2FJS-meme-827061417&psig=AOvVaw1Hu-6ZRsIIpD2WWX10iWhS&ust=1669663033535000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjGrNKJz_sCFQAAAAAdAAAAABAE";
 
 
 
